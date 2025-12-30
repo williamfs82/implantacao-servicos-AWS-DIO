@@ -31,7 +31,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 - **Descrição de caso de uso:** Implementação de painéis e alertas para monitorar gastos em tempo real, identificar recursos ociosos (EC2, EBS, snapshots) e definir limites orçamentários por área. Permite ações rápidas de correção e controle financeiro.
 
 ### 📃**Conclusão**
-A implementação estratégica destes três serviços da Amazon Web Services (AWS) na empresa WFS Pharmacies permite alcançar redução rápida e mensurável de custos, com maior controle financeiro, uso eficiente de recursos e aderência às exigências regulatórias. 
+A implementação estratégica destes três serviços da Amazon Web Services (AWS) na empresa *WFS Pharmacies* permite alcançar redução rápida e mensurável de custos, com maior controle financeiro, uso eficiente de recursos e aderência às exigências regulatórias. 
 O modelo em etapas minimiza riscos e cria uma base sólida para evoluções futuras em nuvem, analytics e automação. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 **Assinatura do Responsável pelo Projeto:**
