@@ -4,13 +4,13 @@
 
 Data: 30.12.2025
 
-Empresa: WFS Pharmacies
+Empresa: *WFS Pharmacies*
 
-Responsável pelo projeto: William Fernandes
+Responsável pelo projeto: *William Fernandes*
 
 ### 🚀**Introdução**
-A empresa WFS Pharmacies enfrenta elevados custos operacionais relacionados à infraestrutura de TI, processamento de dados regulatórios, armazenamento de informações críticas e manutenção de ambientes legados. 
-Considerando esse cenário, este projeto elaborado por William Fernandes propõe a implementação estratégica de três serviços da Amazon Web Services (AWS) com foco em redução de custos, aumento de eficiência operacional e maior previsibilidade financeira.
+A empresa *WFS Pharmacies* enfrenta elevados custos operacionais relacionados à infraestrutura de TI, processamento de dados regulatórios, armazenamento de informações críticas e manutenção de ambientes legados. 
+Considerando esse cenário, este projeto elaborado por *William Fernandes* propõe a implementação estratégica de três serviços da Amazon Web Services (AWS) com foco em redução de custos, aumento de eficiência operacional e maior previsibilidade financeira.
 
 ### 📃**Descrição do Projeto**
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
