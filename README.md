@@ -2,10 +2,8 @@
 
 ## **Relatório de Implementação de Serviços AWS**
 
-Data: 30.12.2025
-
-Empresa: *WFS Pharmacies*
-
+Data: 30.12.2025    
+Empresa: *WFS Pharmacies*   
 Responsável pelo projeto: *William Fernandes*
 
 ### 🚀**Introdução**
